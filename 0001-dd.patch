@@ -1,0 +1,22 @@
+From e327e5e186599df106c261e0b26fe484e2c12ff4 Mon Sep 17 00:00:00 2001
+From: caomeng <767291728@qq.com>
+Date: Tue, 16 Aug 2016 09:20:31 +0800
+Subject: [PATCH] dd
+
+---
+ myGit.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/myGit.txt b/myGit.txt
+index f2ba8f8..85137a6 100644
+--- a/myGit.txt
++++ b/myGit.txt
+@@ -1 +1,2 @@
+-abc
+\ No newline at end of file
++abc
++def
+\ No newline at end of file
+-- 
+2.9.3.windows.1
+
